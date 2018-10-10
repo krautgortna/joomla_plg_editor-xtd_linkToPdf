@@ -3,8 +3,8 @@
  * @package     Joomla.Plugin
  * @subpackage  Editors-xtd.pdflink
  *
- * @copyright   Copyright (C) 2005 - 2018 Open Source Matters, Inc. All rights reserved.
- * @license     GNU General Public License version 2 or later; see LICENSE.txt
+ * @author      krautgortna
+ * @license     GNU General Public License version 3 or later; see LICENSE.txt
  */
 
 defined('_JEXEC') or die;
@@ -12,7 +12,6 @@ defined('_JEXEC') or die;
 /**
  * Editor PDFlink buton
  *
- * @since  1.5
  */
 class PlgButtonPdflink extends JPlugin
 {
@@ -33,7 +32,6 @@ class PlgButtonPdflink extends JPlugin
 	 *
 	 * @return  JObject  The button options as JObject or false if not allowed
 	 *
-	 * @since   1.5
 	 */
 	public function onDisplay($name, $asset, $author)
 	{

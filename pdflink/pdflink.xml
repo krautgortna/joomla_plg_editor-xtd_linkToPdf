@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <extension version="3.1" type="plugin" group="editors-xtd" method="upgrade">
 	<name>plg_editors-xtd_pdflink</name>
-	<author>Krauthos</author>
+	<author>krautgortna</author>
 	<creationDate>October 2018</creationDate>
 	<copyright>Copyright (C) 2005 - 2018 Open Source Matters. All rights reserved.</copyright>
 	<license>GNU General Public License version 2 or later; see LICENSE.txt</license>
@@ -15,5 +15,6 @@
 	</files>
 	<languages>
 		<language tag="de-DE">language/de-DE.plg_editors-xtd_pdflink.ini</language>
+		<language tag="de-DE">language/de-DE.plg_editors-xtd_pdflink.sys.ini</language>
 	</languages>
 </extension>
